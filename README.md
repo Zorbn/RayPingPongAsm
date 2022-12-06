@@ -9,5 +9,5 @@ Windows x64.
 - S: Move down.
 
 ###### Note:
-A made a (worse) [WinAPI only version](https://github.com/Zorbn/PingPongAsm) of this game.
+I made a (worse) [WinAPI only version](https://github.com/Zorbn/PingPongAsm) of this game.
 This version improves on that one at the cost of requiring a non-system dependency.
